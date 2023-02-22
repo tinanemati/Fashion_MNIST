@@ -1,4 +1,4 @@
-# Working with Modern Neural Network Framework
+# Working with Modern Neural Network Framework - Classifying FashionMNIST
 Designed a neural network using PyTorch that achieves 90% *test* (not training) accuracy on the FashionMNIST dataset. 
   - Some modifications were made on:
       - Architecture
