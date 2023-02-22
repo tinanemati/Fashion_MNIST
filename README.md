@@ -22,6 +22,8 @@ Designed a neural network using PyTorch that achieves 90% *test* (not training) 
   - 8 Bag
   - 9 Ankle boot
 
+![preview img](/Dataset.png)
+
 ## The Neural Network fulfills the following: 
 - Classify images of clothes to assist in the return process at a shipping facility.
   - People will load clothing items onto a conveyer belt which will bring them to a camera. 
@@ -34,6 +36,9 @@ Designed a neural network using PyTorch that achieves 90% *test* (not training) 
 ### Stretch goals, for future improvements: 
 - Achieve higher accuracy. 
 - Design your own neural networks in NumPy! (or similar): If you thought that the forward and backward propagation algorithms were cool or you want to get a deeper understanding of algorithms yourself, you can try to code your own! This is certainly doable but might be slower.
+
+## For more details about the application and the code; checkout bellow: 
+- [Fashion MNIST Neural Network Code](https://github.com/tinanemati/Fashion_MNIST/blob/main/Fashion_MNIST.ipynb)
 
 ## Refrences
 [Dense neural network for MNIST](https://colab.research.google.com/drive/1bNahKCtLKZLZWbiC574af7cwAocGiXD4?usp=sharing)
